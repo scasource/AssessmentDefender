@@ -1,0 +1,302 @@
+49,34
+cw 0,20
+cw 1,140
+cw 2,140
+cw 3,140
+cw 4,100
+cw 5,80
+cw 6,140
+cw 7,100
+cw 8,80
+cw 9,140
+cw 10,100
+cw 11,80
+cw 12,140
+cw 13,100
+cw 14,80
+cw 15,140
+cw 16,100
+cw 17,80
+cw 18,140
+cw 19,100
+cw 20,80
+cw 21,100
+cw 22,80
+cw 23,140
+cw 24,100
+cw 25,80
+cw 26,140
+cw 27,100
+cw 28,80
+cw 29,140
+cw 30,100
+cw 31,80
+cw 32,64
+cw 33,64
+cw 34,64
+cw 35,64
+cw 36,64
+cw 37,64
+cw 38,64
+cw 39,64
+cw 40,64
+cw 41,64
+cw 42,64
+cw 43,64
+cw 44,64
+cw 45,64
+cw 46,64
+cw 47,64
+cw 48,64
+2,0,Subject
+4,0,Comparable 1
+6,0,Adj.
+7,0,Comparable 2
+9,0,Adj.
+10,0,Comparable 3
+12,0,Adj.
+13,0,Comparable 4
+15,0,Adj.
+16,0,Comparable 5
+18,0,Adj.
+19,0,Comparable 6
+21,0,Adj.
+22,0,Comparable 7
+23,0,Adj.
+24,0,Comparable 8
+26,0,Adj.
+27,0,Comparable 9
+29,0,Adj.
+30,0,Comparable 10
+32,0,Adj.
+2,1,Parcel ID:
+3,1,59.-4-48
+4,1,Parcel ID:
+5,1,59.-13-18
+7,1,Parcel ID:
+8,1,59.-13-41
+10,1,Parcel ID:
+11,1,59.-14-158
+2,2,Address:
+3,2,15 SEPTEMBER WALK
+4,2,Address:
+5,2,25 NOVEMBER WALK
+7,2,Address:
+8,2,607 W WALNUT ST
+10,2,Address:
+11,2,265 LINDELL BLVD
+2,4,Property Class:
+3,4,210
+4,4,Property Class:
+5,4,210
+7,4,Property Class:
+8,4,210
+10,4,Property Class:
+11,4,210
+2,5,Neighborhood: 
+3,5,8
+4,5,Neighborhood: 
+5,5,8
+7,5,Neighborhood: 
+8,5,8
+10,5,Neighborhood: 
+11,5,8
+2,6,Building Style:
+3,6,08 - Old Style
+4,6,Building Style:
+5,6,08 - Old Style
+7,6,Building Style:
+8,6,08 - Old Style
+10,6,Building Style:
+11,6,08 - Old Style
+2,7,Year Built:
+3,7,1930
+4,7,Year Built:
+5,7,1930
+7,7,Year Built:
+8,7,1930
+10,7,Year Built:
+11,7,1920
+2,8,School District: 
+3,8,281000
+4,8,School District: 
+5,8,281000
+7,8,School District: 
+8,8,281000
+10,8,School District: 
+11,8,281000
+2,9,Distance: 
+4,9,Distance: 
+5,9,0.118
+7,9,Distance: 
+8,9,0.189
+10,9,Distance: 
+11,9,0.227
+2,10,Sale Date: 
+4,10,Sale Date: 
+5,10,9/8/2011
+7,10,Sale Date: 
+8,10,1/17/2013
+10,10,Sale Date: 
+11,10,1/24/2013
+2,11,Sale Price: 
+4,11,Sale Price: 
+5,11,0
+7,11,Sale Price: 
+8,11,470,000
+10,11,Sale Price: 
+11,11,0
+2,12,Time Adj. Sale Price: 
+4,12,Time Adj. Sale Price: 
+5,12,0
+6,12,0
+7,12,Time Adj. Sale Price: 
+8,12,470,000
+9,12,0
+10,12,Time Adj. Sale Price: 
+11,12,0
+12,12,0
+2,13,Acreage: 
+3,13,0.05
+4,13,Acreage: 
+5,13,0.050
+6,13,0
+7,13,Acreage: 
+8,13,0.050
+9,13,0
+10,13,Acreage: 
+11,13,0.050
+12,13,0
+2,14,Condition: 
+3,14,4
+4,14,Condition: 
+5,14,3
+6,14,0
+7,14,Condition: 
+8,14,3
+9,14,0
+10,14,Condition: 
+11,14,3
+12,14,0
+2,15,Finish Rec Room: 
+3,15,0
+4,15,Finish Rec Room: 
+5,15,0
+6,15,0
+7,15,Finish Rec Room: 
+8,15,0
+9,15,0
+10,15,Finish Rec Room: 
+11,15,0
+12,15,0
+2,16,Bathrooms: 
+3,16,2
+4,16,Bathrooms: 
+5,16,1
+6,16,10,000
+7,16,Bathrooms: 
+8,16,2
+9,16,0
+10,16,Bathrooms: 
+11,16,2
+12,16,0
+2,17,Fireplace: 
+3,17,0
+4,17,Fireplace: 
+5,17,1
+6,17,-10,000
+7,17,Fireplace: 
+8,17,1
+9,17,-10,000
+10,17,Fireplace: 
+11,17,1
+12,17,-10,000
+2,18,1/2 Baths: 
+3,18,0
+4,18,1/2 Baths: 
+5,18,0
+6,18,0
+7,18,1/2 Baths: 
+8,18,0
+9,18,0
+10,18,1/2 Baths: 
+11,18,0
+12,18,0
+2,19,Sq. Ft.: 
+3,19,1404
+4,19,Sq. Ft.: 
+5,19,1042
+6,19,14,480
+7,19,Sq. Ft.: 
+8,19,1874
+9,19,-18,800
+10,19,Sq. Ft.: 
+11,19,954
+12,19,18,000
+2,20,Garage: 
+3,20,0
+4,20,Garage: 
+5,20,0
+6,20,0
+7,20,Garage: 
+8,20,0
+9,20,0
+10,20,Garage: 
+11,20,0
+12,20,0
+2,21,Other: 
+4,21,Other: 
+6,21,0
+7,21,Other: 
+9,21,0
+10,21,Other: 
+12,21,0
+2,22,Other: 
+4,22,Other: 
+6,22,0
+7,22,Other: 
+9,22,0
+10,22,Other: 
+12,22,0
+2,23,Other: 
+4,23,Other: 
+6,23,0
+7,23,Other: 
+9,23,0
+10,23,Other: 
+12,23,0
+2,24,Total Adj.: 
+4,24,Total Adj: 
+6,24,$14,480
+7,24,Total Adj: 
+9,24,$-28,800
+10,24,Total Adj: 
+12,24,$8,000
+2,25,Full Market Value: 
+3,25,$120,208
+4,25,Adj. Market Value: 
+6,25,$14,480
+7,25,Adj. Market Value: 
+9,25,$441,200
+10,25,Adj. Market Value: 
+12,25,$8,000
+2,26,Net Adjustment: 
+4,26,Net Adjustment: 
+5,26,+
+7,26,Net Adjustment: 
+8,26,-
+9,26,-6.12%
+10,26,Net Adjustment: 
+11,26,+
+2,27,Gross Adjustment: 
+4,27,Gross Adjustment: 
+7,27,Gross Adjustment: 
+9,27,6.12%
+10,27,Gross Adjustment: 
+2,28,Weighted %: 
+4,28,Weighted %: 
+6,28,33.3333333333333
+7,28,Weighted %: 
+9,28,33.3333333333333
+10,28,Weighted %: 
+12,28,33.3333333333333

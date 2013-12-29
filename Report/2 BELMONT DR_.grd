@@ -1,0 +1,241 @@
+49,35
+cw 0,20
+cw 1,140
+cw 2,140
+cw 3,140
+cw 4,100
+cw 5,80
+cw 6,140
+cw 7,100
+cw 8,80
+cw 9,140
+cw 10,100
+cw 11,80
+cw 12,140
+cw 13,100
+cw 14,80
+cw 15,140
+cw 16,100
+cw 17,80
+cw 18,140
+cw 19,100
+cw 20,80
+cw 21,100
+cw 22,80
+cw 23,140
+cw 24,100
+cw 25,80
+cw 26,140
+cw 27,100
+cw 28,80
+cw 29,140
+cw 30,100
+cw 31,80
+cw 32,64
+cw 33,64
+cw 34,64
+cw 35,64
+cw 36,64
+cw 37,64
+cw 38,64
+cw 39,64
+cw 40,64
+cw 41,64
+cw 42,64
+cw 43,64
+cw 44,64
+cw 45,64
+cw 46,64
+cw 47,64
+cw 48,64
+2,0,Subject
+4,0,Comparable 1
+6,0,Adj.
+7,0,Comparable 2
+9,0,Adj.
+10,0,Comparable 3
+12,0,Adj.
+13,0,Comparable 4
+15,0,Adj.
+16,0,Comparable 5
+18,0,Adj.
+19,0,Comparable 6
+21,0,Adj.
+22,0,Comparable 7
+23,0,Adj.
+24,0,Comparable 8
+26,0,Adj.
+27,0,Comparable 9
+29,0,Adj.
+30,0,Comparable 10
+32,0,Adj.
+2,1,Parcel ID:
+3,1,3.50-12-4
+4,1,Parcel ID:
+5,1,3.150-132-3
+7,1,Parcel ID:
+8,1,3.160-143-14
+2,2,Address:
+3,2,2 BELMONT DR
+4,2,Address:
+5,2,13 ATILDA AVE
+7,2,Address:
+8,2,325 CLINTON AVE
+2,4,Property Class:
+3,4,210
+4,4,Property Class:
+5,4,210
+7,4,Property Class:
+8,4,210
+2,5,Neighborhood: 
+3,5,DF1
+4,5,Neighborhood: 
+5,5,DF1
+7,5,Neighborhood: 
+8,5,DF1
+2,6,Building Style:
+3,6,CO
+4,6,Building Style:
+5,6,CO
+7,6,Building Style:
+8,6,CO
+2,7,Year Built:
+3,7,1999
+4,7,Year Built:
+5,7,1975
+7,7,Year Built:
+8,7,1940
+2,8,School District: 
+4,8,School District: 
+5,8,552603
+7,8,School District: 
+8,8,552603
+2,9,Distance: 
+4,9,Distance: 
+5,9,1.793
+7,9,Distance: 
+8,9,1.559
+2,10,Sale Date: 
+4,10,Sale Date: 
+5,10,8/20/2010
+7,10,Sale Date: 
+8,10,11/6/2009
+2,11,Sale Price: 
+4,11,Sale Price: 
+5,11,629,300
+7,11,Sale Price: 
+8,11,730,000
+2,12,Time Adj. Sale Price: 
+4,12,Time Adj. Sale Price: 
+5,12,597,835
+6,12,-31,465
+7,12,Time Adj. Sale Price: 
+8,12,693,500
+9,12,-36,500
+2,13,Acreage: 
+3,13,1.29
+4,13,Acreage: 
+5,13,0.11
+6,13,59,000
+7,13,Acreage: 
+8,13,0.2
+9,13,54,500
+2,14,Year Built: 
+3,14,1999
+4,14,Year Built: 
+5,14,1975
+6,14,6,000
+7,14,Year Built: 
+8,14,1940
+9,14,14,750
+2,15,Basement: 
+3,15,FF
+4,15,Basement: 
+5,15,P
+6,15,0
+7,15,Basement: 
+8,15,F
+9,15,0
+2,16,Garages: 
+3,16,AG: 0 DG: 0 BG: 2
+4,16,Garages: 
+5,16,AG: 1 DG: 0 BG: 0
+6,16,0
+7,16,Garages: 
+8,16,AG: 0 DG: 0 BG: 2
+9,16,0
+2,17,Full Baths: 
+3,17,3
+4,17,Full Baths: 
+5,17,1
+6,17,24,000
+7,17,Full Baths: 
+8,17,2
+9,17,12,000
+2,18,Fireplace: 
+3,18,0
+4,18,Fireplace: 
+5,18,0
+6,18,0
+7,18,Fireplace: 
+8,18,0
+9,18,0
+2,19,Half Bathroom: 
+3,19,2
+4,19,Half Bathroom: 
+5,19,1
+6,19,6,000
+7,19,Half Bathroom: 
+8,19,1
+9,19,6,000
+2,20,Sq. Footage - $150/sq. ft.: 
+3,20,4241
+4,20,Sq. Footage - $150/sq. ft.: 
+5,20,1740
+6,20,375,150
+7,20,Sq. Footage - $150/sq. ft.: 
+8,20,2390
+9,20,277,650
+2,21,Other: 
+4,21,Other: 
+6,21,$0
+7,21,Other: 
+9,21,$0
+2,22,Other: 
+4,22,Other: 
+6,22,$0
+7,22,Other: 
+9,22,$0
+2,23,Other: 
+4,23,Other: 
+6,23,$0
+7,23,Other: 
+9,23,$0
+2,24,Total Adj.: 
+4,24,Total Adj: 
+6,24,$438,685
+7,24,Total Adj: 
+9,24,$328,400
+2,25,Full Market Value: 
+3,25,$4,032,680
+4,25,Adj. Market Value: 
+6,25,$1,067,985
+7,25,Adj. Market Value: 
+9,25,$1,058,400
+2,26,Net Adjustment: 
+4,26,Net Adjustment: 
+5,26,+
+6,26,69.7%
+7,26,Net Adjustment: 
+8,26,+
+9,26,44.98%
+2,27,Gross Adjustment: 
+4,27,Gross Adjustment: 
+6,27,79.7%
+7,27,Gross Adjustment: 
+9,27,54.98%
+2,28,Weighted %: 
+4,28,Weighted %: 
+6,28,50
+7,28,Weighted %: 
+9,28,50
